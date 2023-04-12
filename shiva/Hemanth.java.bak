@@ -1,0 +1,7 @@
+class Hemanth
+{
+public static voide main (Sting[] args)
+	{
+	System.out.println("HI");
+	}
+}

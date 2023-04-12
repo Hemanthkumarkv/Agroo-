@@ -1,0 +1,19 @@
+class Demo
+{
+static String name = "Raju";
+static double fees = 45000.25;
+static char grade ='A';
+static String school = "saint joseps";
+
+public static void main (String [] args)
+
+	{
+System.out.println("Student name is"+name);
+System.out.println("Student feez is"+ fees);
+System.out.println("Grade is"+grade);
+System.out.println("School name is"+school);
+
+ 
+
+	}
+}

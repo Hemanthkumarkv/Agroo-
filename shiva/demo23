@@ -1,0 +1,15 @@
+class Demo23
+{
+double area(int r)
+	{
+	double pi = 3.142;
+	double result = 6;
+	{
+	System.out.println(result);
+	}
+	}
+	Public static void main (Sting[]args)
+	{
+	new Demo23().area(6);
+	}
+}
